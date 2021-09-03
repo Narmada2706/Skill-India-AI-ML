@@ -6,7 +6,7 @@ This repository is having all the codes and file used in Inventory Management Sy
 
 # Who am I?
 
-My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded.
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded. NOW I am Doing Internship in Machine learning and Artificial Intelligence Domain.
 
 # Other Useful Links:
 https://www.linkedin.com/in/narmada-ugale-b411a61ab/
