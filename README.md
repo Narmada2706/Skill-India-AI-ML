@@ -1,5 +1,6 @@
 # Skill-India-AI-ML
-This repository is having all the codes and file used in Inventory Management System Project using python and json files.--
+
+This repository is having all the codes and file used in Inventory Management System Project using python and json files.
 ---
 
 ## Who am I?
