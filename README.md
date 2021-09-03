@@ -1,5 +1,5 @@
 
-# Skill-India-AI-ML
+# Skill-India-AI-ML-ETG
 
 This repository is having all the codes and file used in Inventory Management System Project using python and json files.
 
